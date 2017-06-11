@@ -2,7 +2,6 @@
 
 require_relative 'retirement_planner.rb'
 
-}
 ################################################
 # UPDATE THESE VALUES
 ################################################
